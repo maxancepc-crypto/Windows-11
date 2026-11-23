@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: windows11-web
-    runtime: static
-    buildCommand: echo "Site statique, rien à compiler"
-    staticPublishPath: .
